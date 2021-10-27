@@ -1,1 +1,2 @@
-# Lol
+# Geologist
+Geologist Project
